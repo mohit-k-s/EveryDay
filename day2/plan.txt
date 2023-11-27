@@ -1,0 +1,11 @@
+On day2 we explore visualisations of some sorting algorithms
+1. Count sort 
+2. Bubble sort 
+3. Quick sort 
+4. Selection sort 
+
+Sorting algorithms have their steps and on each step we can repaint the canvas 
+each bar is just a rectangle and all it needs is assignment of new index and then we repaint 
+
+for example Selection sort 
+1. We start from first index , we find the minimum element in the right side and then we swap that place 
